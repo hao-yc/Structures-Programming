@@ -3,8 +3,8 @@ Ejercicios de Programación - Fundamentos de Computación
 Este repositorio contiene mis ejercicios prácticos sobre los fundamentos de la arquitectura de computadores y programación, organizados por temas.
 
 📚 Temas Cubiertos
-Tema 1: Arquitectura Básica de un Ordenador
--Estructura básica: memoria, I/O y CPU
+Tema 1: Arquitectura Básica de un Ordenador / 
+-Estructura básica: memoria, I/O y CPU \\
 -Representación de la información
 -Unidades de memoria
 
